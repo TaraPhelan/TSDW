@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "290002216080",
+    "project_id": "tsdw-81bf0",
+    "storage_bucket": "tsdw-81bf0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:290002216080:android:65de78b3d19fd74faca415",
+        "android_client_info": {
+          "package_name": "com.example.tsdw"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "290002216080-1j489arfe112mkdr6jjegp7qlmo73oij.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOY4LiJLTcHRiqeKGCphIGes5s-hANxWk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "290002216080-1j489arfe112mkdr6jjegp7qlmo73oij.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
