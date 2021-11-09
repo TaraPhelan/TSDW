@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">TSDW</string>
+    <string name="button">New Random Episode</string>
 </resources>
